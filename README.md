@@ -1,3 +1,3 @@
-# OpenApi [![Build Status](https://travis-ci.org/gedaiu/OpenApi.svg?branch=master)](https://travis-ci.org/gedaiu/OpenApi)
+# OpenApi
 
-OpenApi library for D programming language
+I will not mantain this project in the future. Please have a loog at this fork: [https://github.com/gedaiu/OpenApi](https://github.com/gedaiu/OpenApi)
