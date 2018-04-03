@@ -1,6 +1,6 @@
 {
   "name": "open-api",
-  "description": "An OpenApi implementation for D.",
+  "description": "A swaggerize implementation for D.",
   "copyright": "Copyright © 2015, Szabo Bogdan",
   "authors": ["Szabo Bogdan"],
   "license": "MIT",
